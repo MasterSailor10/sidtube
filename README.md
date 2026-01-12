@@ -279,9 +279,8 @@ SOFTWARE.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@YOUR_USERNAME](https://github.com/MasterSailor10)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/siddhartha1010/)
 
 ## 🙏 Acknowledgments
 
