@@ -170,7 +170,9 @@ npm run deploy
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
+![Home Page]
+![Uploading image.png…]()
+
 
 ### Watch Page
 ![Watch Page](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
