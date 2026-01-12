@@ -64,7 +64,7 @@ A fully functional YouTube clone built with React and Vite, featuring a modern U
 
 1. **Clone the repository**
 
-git clone https://github.com/YOUR_USERNAME/sidtube.git
+git clone https://github.com/MasterSailor10/sidtube.git
 cd sidtube
 
 2. **Install dependencies**
